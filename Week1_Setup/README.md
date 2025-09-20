@@ -1,5 +1,9 @@
 # Week 1 - Setup & Portfolio Foundations
 
+[í³˜ Systematic Thinking Guide](../docs/Systematic_Thinking_Guide.md)
+
+---
+
 âœ… GitHub repo cloned  
 âœ… VS Code configured  
 âœ… Folder structure created  
